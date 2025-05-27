@@ -11,6 +11,9 @@ A complete MLOps pipeline for detecting insurance fraud in real-time, designed f
 conda create -n mlops_env python=3.8 -y # for name based (-p for path based)
 conda activate mlops_env
 
+# Create setup.py file for the MLOps project 
+the standard way to make your code installable and reusable.
+
 # install the dependencies
 pip install -r requirements.txt
 
