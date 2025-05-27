@@ -1,2 +1,2 @@
 # MLOps_Insurance_Fraud
-**MLOps Insurance for Production-Grade**
+**MLOps project for detecting insurance fraud in a production environment.**
