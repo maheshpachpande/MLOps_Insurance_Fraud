@@ -16,5 +16,6 @@ fastapi # for building APIs
 uvicorn # for serving FastAPI applications
 jinja2 # for templating in FastAPI
 python-multipart # for handling file uploads in FastAPI
+from_root # for relative imports in FastAPI
 
 -e . # for local development, assuming the package is in the current directory
