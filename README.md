@@ -26,3 +26,8 @@ pip install -r requirements.txt
 # Firstly create Python Notebooks for research and development purposes then create the MLOps pipeline with the help of modular coding create production based code.
 
 
+# Create the log file for the project
+
+# Create the custom exception file for the project
+refering with --https://docs.python.org/3/tutorial/errors.html
+
